@@ -10699,3 +10699,15 @@ a.isaknavbar:hover {
   color: #fff;
   font-family: "Jost", sans-serif;
 }
+
+h2 {
+  font-weight: 700;
+}
+
+p {
+  font-weight: 400;
+}
+
+h3 {
+  font-weight: 700;
+}
